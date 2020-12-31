@@ -8,4 +8,4 @@ Since React Navigation 5 is released, all of the configurations happens inside a
 
 # Screen Shots
 
-<img src="screen-shot/1.png" width="300" height="600"/> <img src="screen-shot/2.png" width="300" height="600"/>
+<img src="screen-shot/1.png" width="300" height="600"/>  <img src="screen-shot/2.png" width="300" height="600"/>
