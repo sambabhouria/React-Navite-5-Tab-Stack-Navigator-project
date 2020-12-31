@@ -1,5 +1,5 @@
-# React-Native-Shopping-App
-A simple Shopping App in React Native. For Complete Functionality... check https://www.youtube.com/watch?v=Lf0MLrcSx0Q
+#  Bottom Tab Navigator with Stack Navigator in React Navigation 5
+A simple React Nativve App for combine Bottom Tab Navigator with Stack Navigator in React Navigation 5
 # Close the app and run "npm install" in root folder
 
 
